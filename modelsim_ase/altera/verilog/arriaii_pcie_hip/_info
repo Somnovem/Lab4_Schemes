@@ -1,0 +1,344 @@
+m255
+K3
+13
+gQuartusII9.1Build222SJ
+cModel Technology
+dd:\acds\quartus\bin
+varriaii_hssi_pcie_hip
+!s100 L2N1QgDEAmB^OC_@5BA4V0
+IBc2QDmPH>oY6fcPBm8Z:=3
+Vm99mfTcZe=NmSWP=eA4XK1
+d.
+Z0 F$MODEL_TECH/../altera/verilog/src/arriaii_pcie_hip_atoms.v
+L0 198361
+Z1 OV;L;6.5b;42
+r1
+!s85 1
+31
+!s101 -O0
+Z2 o-93 -work d:/p4/modelsim/libs/altera/verilog/arriaii_pcie_hip -path {$MODEL_TECH/../altera/verilog/src/arriaii_pcie_hip_atoms.v} -O0
+varriaii_pciehip_clkmux
+!s100 e8lIAC2YJUZ;AI@0DgmAP0
+IYfBH`P`Z9F28QTWz^lz[R0
+VfGjiYPa4o?QIb?_Ll0i0a3
+d.
+Z3 F$MODEL_TECH/../altera/verilog/src/arriaii_pcie_hip_atoms.v
+L0 1243
+R1
+r1
+!s85 1
+31
+!s101 -O0
+R2
+varriaii_pciehip_compute_bit
+!s100 R1;i12G0Cf=VME1^0=bVh3
+IUz_=M8?R2<4KE1FQBVk8M2
+V5gT]eKV95]4l6^Ci_U?FC2
+d.
+R3
+L0 7331
+R1
+r1
+!s85 1
+31
+!s101 -O0
+R2
+varriaii_pciehip_dprio_16bit
+!s100 `g[a795J^<YQ4=O`AcA9n1
+I1X:WFd?^lb40AUV17X45T1
+VJ2O`z`QHN<AlTzcT8z>`<1
+d.
+R3
+L0 1409
+R1
+r1
+!s85 1
+31
+!s101 -O0
+R2
+varriaii_pciehip_dprio_addr
+!s100 BGEJMZ0=1]iV^NXiCk`5i1
+I@6Y>VDiQ[ZB7OaoK3z_m93
+Vbk@8gW@ibNCaNQe]m?Yl`2
+d.
+R3
+L0 1644
+R1
+r1
+!s85 1
+31
+!s101 -O0
+R2
+varriaii_pciehip_dprio_bit
+!s100 zQkBcL`K?X@PN`^fG9OzW2
+I;:0>=HRH]EPTDDmo[j^=:2
+V6_M_QeDWLU_b:TZ13l4kh0
+d.
+R3
+L0 1365
+R1
+r1
+!s85 1
+31
+!s101 -O0
+R2
+varriaii_pciehip_dprio_bus_out_mux
+!s100 H`_C:mbLF=Io2BgB<aJYm2
+I>_agk1Z1koJZggc7:X=^21
+VV7@TlgG94Ie<j9SSQQ1BF2
+d.
+R3
+L0 3008
+R1
+r1
+!s85 1
+31
+!s101 -O0
+R2
+varriaii_pciehip_dprio_cnt
+!s100 :g7B^eAX?LAojD`99zH_d1
+IgZZ4DcSjZGed2lKNAb[We0
+VRk>H[]VNAR;8BcWD]Fz@:0
+d.
+R3
+L0 2006
+R1
+r1
+!s85 1
+31
+!s101 -O0
+R2
+varriaii_pciehip_dprio_ctl_data
+!s100 PQ2[P`]oHIQY^I20<a8i?2
+IYi[l5<SNONZUTY5hAb7j]0
+VeCO]77YE:5UHd>zn6R7Em1
+d.
+R3
+L0 2232
+R1
+r1
+!s85 1
+31
+!s101 -O0
+R2
+varriaii_pciehip_dprio_reg
+!s100 [M>o6jWn7LKRb=DZVPkK71
+IQgFf^:g3N9WOm`PdMJ5hg0
+VT;YL5G5F;m6F1QM0=9;eH1
+d.
+R3
+L0 3571
+R1
+r1
+!s85 1
+31
+!s101 -O0
+R2
+varriaii_pciehip_dprio_reg_top
+!s100 ZM?YQa><6Df?RbSN?L]`N0
+I8`D7d5TE@am@j:4^<bSHn3
+V7B4BBoRD_f52`;]P@n=Y52
+d.
+R3
+L0 5804
+R1
+r1
+!s85 1
+31
+!s101 -O0
+R2
+varriaii_pciehip_dprio_sm
+!s100 PgSnfdJ`an6@H17WIfcB40
+IOdT4P5]gGk2AW6bh<`g_F2
+VnOB>?eRbi46zS@n5DWX@;1
+d.
+R3
+L0 2682
+R1
+r1
+!s85 1
+31
+!s101 -O0
+R2
+varriaii_pciehip_ecc_chk
+!s100 2h?SSV3K^aE08JZ?6XY]X1
+I0HTU<VXF=BP2EAH]TR?h=3
+VYn3ZaKhgZnTVIz]M55bcR1
+d.
+R3
+L0 7366
+R1
+r1
+!s85 1
+31
+!s101 -O0
+R2
+varriaii_pciehip_ecc_decoder
+!s100 bGl1R7zK]Ec8g6_EmTgKS2
+I=iENJF]P2D3GZeEDS;6Q52
+VT1SiXAb_iXF?BhEV7[;;B2
+d.
+R3
+L0 7485
+R1
+r1
+!s85 1
+31
+!s101 -O0
+R2
+varriaii_pciehip_ecc_gen
+!s100 =_;_U<2g^bITLf>jIF8fV0
+Icg?bTn8A7n[F0Fc@_[50Z0
+V[1MJ5=ZG?K2lKLO4E29k31
+d.
+R3
+L0 7346
+R1
+r1
+!s85 1
+31
+!s101 -O0
+R2
+varriaii_pciehip_hip_dprio_top
+!s100 S5cn<l`Kz:JTRzRa7N?1k2
+IFF;QBP5VQ@AkJN6:iik2_3
+V;LOzfj6Q@@zWEGCdRkiDN3
+d.
+R3
+L0 6858
+R1
+r1
+!s85 1
+31
+!s101 -O0
+R2
+varriaii_pciehip_hip_mram
+!s100 2ZVWaHJW^KbGP0:b6V]2H0
+Io6c9kc:Z2MljRH;kVQY3V2
+V9T2TNziT>Ro]WD3eK7EYK1
+d.
+R3
+L0 7574
+R1
+r1
+!s85 1
+31
+!s101 -O0
+R2
+varriaii_pciehip_hip_top
+!s100 1ViNO_Gz@4Z[OK=ziDOGV1
+IC]46`@j?j^]aF7J=Do6]_3
+VR_4CUmTnjEc^a_^W7H]Fb1
+d.
+R3
+L0 196182
+R1
+r1
+!s85 1
+31
+!s101 -O0
+R2
+varriaii_pciehip_iei_detect
+!s100 9T0=U0o]oK3]c5KKcZCTe2
+I^_nNLPDOV?<YbR_ZSRB<g1
+VL8FKko;N48nT:7aDddM703
+d.
+R3
+L0 8194
+R1
+r1
+!s85 1
+31
+!s101 -O0
+R2
+varriaii_pciehip_mram_top
+!s100 7cY8Zg;Y2?2[4QFnl:82n0
+IQo;X^n:8aP@<ND2PFSHGg3
+V`n20FkIU@:`GnMC>anBlU1
+d.
+R3
+L0 7750
+R1
+r1
+!s85 1
+31
+!s101 -O0
+R2
+varriaii_pciehip_param
+!s100 FG3N7HnE^37OlQelCEI^N2
+IEd1moL[GPmihnA8z5SOTD2
+VI[0BMlK0dlfQUH8=6mh8U1
+d.
+R3
+L0 38
+R1
+r1
+!s85 1
+31
+!s101 -O0
+R2
+varriaii_pciehip_pciexp_dcfiforam
+!s100 [Ze5Y?mdQ[<FjH0;g<NbF2
+IE3GOPN`2fOKbKV:XU;hef0
+VMR6lYXj3DX^DU55TE]]Od1
+d.
+R3
+L0 8013
+R1
+r1
+!s85 1
+31
+!s101 -O0
+R2
+varriaii_pciehip_pciexp_dcram_rtry
+!s100 P]_RQ5noQ6=3lXSS64ehi0
+IdD81Re=^7nB247HC@hk]g0
+Vn3acL1MR;bVzHl^T_e8Jz0
+d.
+R3
+L0 8054
+R1
+r1
+!s85 1
+31
+!s101 -O0
+R2
+varriaii_pciehip_pciexp_dcram_rxvc
+!s100 e:?fKG]05b3RNP8PU>Zbg3
+IaJSB^Z4<Hj]XK;DfA5H@R0
+VSAKCWkVlfPTXIk5Wc7S0I2
+d.
+R3
+L0 8110
+R1
+r1
+!s85 1
+31
+!s101 -O0
+R2
+varriaii_pciehip_pciexp_top_hip
+!s100 >PoF3JXG_MhA[n]?127AG0
+I5afO?CM6W_CSH^AG[BG;l1
+VPeB9U?jRZ]Fl2iVP8?XUe2
+d.
+R3
+L0 15414
+R1
+r1
+!s85 1
+31
+!s101 -O0
+R2
+varriaii_pciehip_pulse_ext
+!s100 ]dfJ5O<LeL90nOiJA_<5d2
+ITaSh`80T<B5i=6dFQU4ca3
+V4_Ldgz1i8TQ07d0YMaa`l2
+d.
+R3
+L0 7502
+R1
+r1
+!s85 1
+31
+!s101 -O0
+R2

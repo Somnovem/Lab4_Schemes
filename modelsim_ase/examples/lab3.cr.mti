@@ -1,0 +1,8 @@
+D:/model/modelsim_ase/examples/half_add_lab1.v {1 {vlog -work work -nocovercells D:/model/modelsim_ase/examples/half_add_lab1.v
+Model Technology ModelSim ALTERA vlog 6.5b Compiler 2009.10 Oct  1 2009
+-- Compiling module half_add
+
+Top level modules:
+	half_add
+
+} {} {}}

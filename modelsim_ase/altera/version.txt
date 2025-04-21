@@ -1,0 +1,7 @@
+*================================================================================*
+Model Technology ModelSim ALTERA  6.5b 
+Libraries compatible with :
+Quartus II ShellVersion 9.1 Build 222 10/21/2009 SJ Full Version
+
+Note : Please use ONLY with Quartus II Install version to avoid incompatibility issues.
+*================================================================================*

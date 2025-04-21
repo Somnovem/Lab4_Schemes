@@ -1,0 +1,318 @@
+m255
+K3
+13
+gQuartusII9.1Build222SJ
+cModel Technology
+dd:\acds\quartus\bin
+vdeskew_ram_block
+!s100 UH`4YV]AALlB[jNhoY7E=0
+IW5aY2JZbNZO7:l6X9lWnj0
+V`CWofhX;RUid82hk6J;gb3
+d.
+Z0 F$MODEL_TECH/../altera/verilog/src/stratixgx_hssi_atoms.v
+L0 7373
+Z1 OV;L;6.5b;42
+r1
+!s85 1
+31
+!s101 -O0
+Z2 o-93 -work d:/p4/modelsim/libs/altera/verilog/stratixgx_gxb -path {$MODEL_TECH/../altera/verilog/src/stratixgx_hssi_atoms.v} -O0
+vstratixgx_8b10b_decoder
+!s100 WLb:78i57AIz6;DhA5z2Y1
+ILWgXP[C]^gJm75^1R3CIh1
+VcK:DP1jE<H0AW8H[=`B=B2
+d.
+Z3 F$MODEL_TECH/../altera/verilog/src/stratixgx_hssi_atoms.v
+L0 6657
+R1
+r1
+!s85 1
+31
+!s101 -O0
+R2
+vstratixgx_8b10b_encoder
+!s100 U5<NOFfD^3i4KjzfFV2=z0
+I?dan8[1cL9Nn<@35MV@EP1
+VTmFgHmkVkJ@co7M^Ve8Fb1
+d.
+R3
+L0 6168
+R1
+r1
+!s85 1
+31
+!s101 -O0
+R2
+vstratixgx_comp_fifo
+!s100 0=[N[n>F<10;L>Fn=dJl13
+I5;1Lj_eGUWHN3>[ncLj1V0
+V[[MkQFjb35HVB2o42obfM0
+d.
+R3
+L0 13316
+R1
+r1
+!s85 1
+31
+!s101 -O0
+R2
+vstratixgx_comp_fifo_core
+!s100 HHbL<6oAa8YXhjM:R]8:10
+IFWzolj9fT[992Tm2zCf573
+VE1DL]<?[imQlnoSRFDUmz3
+d.
+R3
+L0 12287
+R1
+r1
+!s85 1
+31
+!s101 -O0
+R2
+vstratixgx_comp_fifo_sm
+!s100 iSN7:?h>PEJhGY2LZOI^a3
+IE6=UdH<n2CibVOkPZlUkS2
+V^QAB>gmZC32QMdPmo00_R0
+d.
+R3
+L0 12947
+R1
+r1
+!s85 1
+31
+!s101 -O0
+R2
+vstratixgx_deskew_fifo
+!s100 0YTj8Yg?O_ZzF3_`D:_eD1
+ILBJDI_T3F<ag[U>c:dNQO2
+VLaDhz6>COOhWX?;]5>Dh:0
+d.
+R3
+L0 8531
+R1
+r1
+!s85 1
+31
+!s101 -O0
+R2
+vstratixgx_deskew_fifo_rtl
+!s100 e<X81]SSiPlM;70WiZNH03
+In:nFV00ISG3ghbVlg[1Id1
+Vf_lMZY]OdS0LeM_K4Z5lm1
+d.
+R3
+L0 7649
+R1
+r1
+!s85 1
+31
+!s101 -O0
+R2
+vstratixgx_hssi_divide_by_two
+!s100 97AlQBT8>:PcTRbh:^hXl2
+I61Z7jnWzATo:zgKO`P>NH1
+VlcQI2[<fJ@Q8RIMR4S`?=1
+d.
+R3
+L0 14229
+R1
+r1
+!s85 1
+31
+!s101 -O0
+R2
+vstratixgx_hssi_mux4
+!s100 Y]UeQD5dnQlzc7^[QIQ>J2
+I:AFhbcECQT=2lYgbMKaRf0
+VNG0lMY1f[810M0CoY6<:`2
+d.
+R3
+L0 14214
+R1
+r1
+!s85 1
+31
+!s101 -O0
+R2
+vstratixgx_hssi_receiver
+!s100 6WY:8;V`N_M@Jc8ihN:9J3
+IGHfU[K@9LgOJfAA=TCC@32
+VRm_zlkTcSa7S@>:_HMml^1
+d.
+R3
+L0 14273
+R1
+r1
+!s85 1
+31
+!s101 -O0
+R2
+vstratixgx_hssi_rx_serdes
+!s100 6jXF]TzeThN=H_zN1N`Xm2
+IQ2iF0FG0B<8`Y4:KPg?gl2
+VNT[nH8R[=4GaEhNI5AHI_1
+d.
+R3
+L0 13846
+R1
+r1
+!s85 1
+31
+!s101 -O0
+R2
+vstratixgx_hssi_rx_wal_rtl
+!s100 icThETa3obkWlGVVR;4OO2
+IR6VS>AFN`G4?DabZ4MjQV0
+Vlfg<c9MOHheF<zDEbRW?o1
+d.
+R3
+L0 8674
+R1
+r1
+!s85 1
+31
+!s101 -O0
+R2
+vstratixgx_hssi_transmitter
+!s100 Q`C[Z;2fOBC`Xd5[1TcA;0
+IfhzJFlUBOGlLMolR[;[;>3
+Vfn9>a:CNCb6O<2ihfXOWj0
+d.
+R3
+L0 6263
+R1
+r1
+!s85 1
+31
+!s101 -O0
+R2
+vstratixgx_hssi_tx_enc_rtl
+!s100 EcJc<H@41d[]I<<:F5VhB3
+I5c^I^zOUGCVG5XfCDSETm3
+V9EEYj1G@m73`hBL?Db<`K3
+d.
+R3
+L0 5402
+R1
+r1
+!s85 1
+31
+!s101 -O0
+R2
+vstratixgx_hssi_tx_serdes
+!s100 TgoSz5MzA1LNVd^6UIzSa1
+IMi1jNNhfjoeC`J7IKj2F;1
+Vz>ZCZW8c>l=O`hQ8Q[jhU1
+d.
+R3
+L0 5248
+R1
+r1
+!s85 1
+31
+!s101 -O0
+R2
+vstratixgx_hssi_word_aligner
+!s100 ;1^O4Gl_Y:kjdcOalGR[c0
+I_O:8M>O[27YTjn0:BkJ4Y1
+VF=AC;>8TK`m6<kakAXI<T2
+d.
+R3
+L0 12072
+R1
+r1
+!s85 1
+31
+!s101 -O0
+R2
+vstratixgx_rx_core
+!s100 7OFAm5CCZmNMz[bGR5VEf0
+IoPail>M0Gn986eAFm]@9i3
+VGCMc=fG8jI8a3Z^En271n2
+d.
+R3
+L0 13472
+R1
+r1
+!s85 1
+31
+!s101 -O0
+R2
+vstratixgx_tx_core
+!s100 ?Gk=3@2A`F0dj1YLC^U`Z3
+IM^AVPk<Yf;KX5h<DZ]NEG0
+VF7n[0i;_T2KWnF^R8=9h70
+d.
+R3
+L0 4980
+R1
+r1
+!s85 1
+31
+!s101 -O0
+R2
+vstratixgx_xgm_dskw_sm
+!s100 4EX>n5jckh=C:3jBVmjeQ0
+I_N`<F?Hn?A;ZW]EGN8S602
+VBbl8NaHJK?L_n_:oSUJZH0
+d.
+R3
+L0 1611
+R1
+r1
+!s85 1
+31
+!s101 -O0
+R2
+vstratixgx_xgm_interface
+!s100 T@8<_1HXI[lk`Lng[cmf;3
+Ilk_<>IQR@<fo;dTbid_>A0
+VAW6=5NjM:__Lfi@2>MGYC1
+d.
+R3
+L0 4515
+R1
+r1
+!s85 1
+31
+!s101 -O0
+R2
+vstratixgx_xgm_reset_block
+!s100 8;of5U1QO3Y=LCQ:0]Kln3
+I]@]3AXT6F;PQ=Y4c<?FC71
+VEHNW21A=2?0N9F1C@Gd[<1
+d.
+R3
+L0 4443
+R1
+r1
+!s85 1
+31
+!s101 -O0
+R2
+vstratixgx_xgm_rx_sm
+!s100 2i^ONG[]`1gzQ3l[1T3=k0
+IJ6<U>:dHhQ_HPYQP5jn^f1
+VaMzA:KZIhR]::TM;g_MQW1
+d.
+R3
+L0 31
+R1
+r1
+!s85 1
+31
+!s101 -O0
+R2
+vstratixgx_xgm_tx_sm
+!s100 CIP7oQGGS3<ab9Zk1Vi]U0
+I5?Dkl]5UAm4300K@BI6Pi1
+Vh3j^N13fY<5[gUbM_a1Xf0
+d.
+R3
+L0 2311
+R1
+r1
+!s85 1
+31
+!s101 -O0
+R2

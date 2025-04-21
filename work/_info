@@ -1,0 +1,56 @@
+m255
+K3
+13
+cModel Technology
+dD:\model\Lab3
+vEx2_NAND
+I>;Y9l<b[iHDAMQ==hXLfP3
+VhA7;@4:UVSlVTJjheDf1D1
+Z0 dD:\model
+w1745231732
+8D:/model/Ex2_Zhmura_NAND.v
+FD:/model/Ex2_Zhmura_NAND.v
+L0 1
+Z1 OV;L;6.5b;42
+r1
+31
+Z2 !s102 -nocovercells
+Z3 o-work work -nocovercells -O0
+n@ex2_@n@a@n@d
+!s100 :neDF82hn?@X42ZTABJ^P1
+!s85 0
+!s101 -O0
+vEx2_NOR
+!s100 mz5fc1bGFo8X5A<?TB4?X1
+IhQUj@^HBdXnN>alPdXg4Y3
+Vo]e9La7R7[Nn4Y]EN>n2D1
+Z4 dD:\model
+w1745233267
+8D:/model/Ex2_Zhmura_NOR.v
+FD:/model/Ex2_Zhmura_NOR.v
+L0 1
+R1
+r1
+!s85 0
+31
+!s101 -O0
+R2
+R3
+n@ex2_@n@o@r
+vEx2_OR
+IBHF=GGAcbBnioMgAGLo`Q0
+VYfliPh^TfB6O=FTZ0CUe30
+R4
+w1745229616
+8D:/model/Ex2_Zhmura_OR.v
+FD:/model/Ex2_Zhmura_OR.v
+L0 1
+R1
+r1
+31
+R2
+R3
+n@ex2_@o@r
+!s100 nRDmkFVK0BEch8[H[GDob0
+!s85 0
+!s101 -O0

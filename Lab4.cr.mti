@@ -1,0 +1,22 @@
+D:/model/Ex2_Zhmura_NOR.v {1 {vlog -work work -nocovercells D:/model/Ex2_Zhmura_NOR.v
+Model Technology ModelSim ALTERA vlog 6.5b Compiler 2009.10 Oct  1 2009
+-- Compiling module Ex2_NOR
+
+Top level modules:
+	Ex2_NOR
+
+} {} {}} D:/model/Ex2_Zhmura_NAND.v {1 {vlog -work work -nocovercells D:/model/Ex2_Zhmura_NAND.v
+Model Technology ModelSim ALTERA vlog 6.5b Compiler 2009.10 Oct  1 2009
+-- Compiling module Ex2_NAND
+
+Top level modules:
+	Ex2_NAND
+
+} {} {}} D:/model/Ex2_Zhmura_OR.v {1 {vlog -work work -nocovercells D:/model/Ex2_Zhmura_OR.v
+Model Technology ModelSim ALTERA vlog 6.5b Compiler 2009.10 Oct  1 2009
+-- Compiling module Ex2_OR
+
+Top level modules:
+	Ex2_OR
+
+} {} {}}

@@ -1,0 +1,67 @@
+# Reading D:/model/modelsim_ase/tcl/vsim/pref.tcl 
+# Loading project Lab4
+vsim work.Ex2_NAND
+# vsim work.Ex2_NAND 
+# Loading work.Ex2_NAND
+add wave sim:/Ex2_NAND/*
+do D:/model/Stimul2.do
+run
+run 200000ns
+quit -sim
+vsim work.Ex2_NAND
+# vsim work.Ex2_NAND 
+# Loading work.Ex2_NAND
+add wave sim:/Ex2_NAND/*
+do D:/model/Stimul2.do
+run 200000ns
+quit -sim
+vsim -t ps work.Ex2_NAND
+# vsim -t ps work.Ex2_NAND 
+# Loading work.Ex2_NAND
+add wave sim:/Ex2_NAND/*
+do D:/model/Stimul2.do
+run -all
+quit -sim
+vsim -t ps work.Ex2_NAND
+# vsim -t ps work.Ex2_NAND 
+# Loading work.Ex2_NAND
+add wave sim:/Ex2_NAND/*
+do D:/model/Stimul2.do
+run -all
+quit -sim
+# Compile of Ex2_Zhmura_OR.v was successful.
+# Compile of Ex2_Zhmura_NAND.v was successful.
+# Compile of Ex2_Zhmura_NOR.v was successful.
+# 3 compiles, 0 failed with no errors. 
+# Load canceled
+# Compile of Ex2_Zhmura_OR.v was successful.
+# Compile of Ex2_Zhmura_NAND.v was successful.
+# Compile of Ex2_Zhmura_NOR.v was successful.
+# 3 compiles, 0 failed with no errors. 
+vsim -t ps work.Ex2_NOR
+# vsim -t ps work.Ex2_NOR 
+# Loading work.Ex2_NOR
+add wave sim:/Ex2_NOR/*
+do D:/model/Stimul2.do
+run -all
+quit -sim
+vsim -t ps work.Ex2_NAND
+# vsim -t ps work.Ex2_NAND 
+# Loading work.Ex2_NAND
+add wave sim:/Ex2_NAND/*
+do D:/model/Stimul2.do
+run -all
+quit -sim
+vsim -t ps work.Ex2_NAND
+# vsim -t ps work.Ex2_NAND 
+# Loading work.Ex2_NAND
+add wave sim:/Ex2_NAND/*
+do D:/model/Stimul2.do
+run -all
+quit -sim
+vsim -t ps work.Ex2_NOR
+# vsim -t ps work.Ex2_NOR 
+# Loading work.Ex2_NOR
+add wave sim:/Ex2_NOR/*
+do D:/model/Stimul2.do
+run -all
